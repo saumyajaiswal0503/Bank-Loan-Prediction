@@ -1,8 +1,8 @@
-# Bank-Loan-Prediction
+# Bank-Loan-Prediction- Logistics
 
 **Objective** 
 
-To Build a Application Scorecard which help us to identify the bad customers for loan disbursed Process 
+To Build a Application Scorecard which help us to identify the bad customers for loan disbursed Process using Logistics Regression
 
 # Platform 
 
